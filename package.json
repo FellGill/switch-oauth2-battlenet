@@ -1,0 +1,12 @@
+{
+  "name": "switch-oauth2-battlenet",
+  "version": "0.0.1",
+  "author": {
+    "name": "FellGill"
+  },
+  "main": "./src",
+  "dependencies": {
+    "switch-oauth2": "github:FellGill/switch-oauth2",
+    "util": "^0.12.1"
+  }
+}
